@@ -6,7 +6,7 @@ Todo el trabajo aquí presentado forma parte de los requisitos de la materia y e
 ---
 
 ## Autor
-- **Nombre:** Loreno Mienrvino Pardon  
+- **Nombre:** Loreno Minervino  
 - **Padrón:** 107863  
 
 ---
@@ -20,15 +20,6 @@ Todo el trabajo aquí presentado forma parte de los requisitos de la materia y e
 
 ## Descripción
 Este repositorio está enfocado en **Aprendizaje Profundo**. Incluye soluciones, implementaciones y explicaciones de los TPs, explorando distintas arquitecturas de redes neuronales y estrategias de entrenamiento.
-
-Entre los temas abordados se encuentran:
-- Redes Neuronales Feedforward  
-- Redes Convolucionales (CNNs)  
-- Redes Recurrentes (RNNs)  
-- Transformers  
-- Técnicas de Optimización y Regularización  
-
----
 
 ## Uso
 Todos los notebooks están preparados para ejecutarse en **Google Colab**.  
