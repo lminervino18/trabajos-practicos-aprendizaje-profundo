@@ -1,0 +1,38 @@
+# --- Virtualenvs (en cualquier carpeta del repo) ---
+**/.venv/
+**/venv/
+**/env/
+ENV/
+
+# (explícito por si acaso)
+.venv/
+venv/
+env/
+TP1/.venv/
+TP1/venv/
+TP1/env/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.egg-info/
+build/
+dist/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Editores/IDE ---
+.vscode/
+.idea/
+
+# --- SO ---
+.DS_Store
+Thumbs.db
+
+# --- Otros útiles ---
+*.log
