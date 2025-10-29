@@ -22,7 +22,8 @@ __pycache__/
 *.egg-info/
 build/
 dist/
-
+.Python
+*.pth
 # --- Jupyter ---
 .ipynb_checkpoints/
 
